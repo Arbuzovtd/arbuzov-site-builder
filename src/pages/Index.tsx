@@ -3,6 +3,7 @@ import Header from '../components/Header';
 import DefinitionSection from '../components/DefinitionSection';
 import TechniqueCard from '../components/TechniqueCard';
 import ThoughtJournal from '../components/ThoughtJournal';
+import RedFlagSection from '../components/RedFlagSection';
 import CallToAction from '../components/CallToAction';
 import Footer from '../components/Footer';
 import boxBreathingImage from '../assets/box-breathing.webp';
@@ -43,7 +44,9 @@ const Index = () => {
         />
         
         <ThoughtJournal />
-        
+
+        <RedFlagSection />
+
         <CallToAction />
         
       </main>
