@@ -14,7 +14,7 @@ const RedFlagSection = () => {
       <div className="container mx-auto px-4">
         <div className="rounded-3xl border border-destructive/30 bg-destructive/5 p-6 md:p-8 shadow-card">
           <h2 className="text-2xl md:text-3xl font-semibold text-destructive mb-6">
-            Сигнал «красного маячка» организма
+            Ред флаг организма: когда нужна помощь врача
           </h2>
           <p className="text-lg text-muted-foreground mb-6">
             Если замечаете один или несколько признаков ниже, не откладывайте обращение к врачу или психологу — это важные сигналы, что нужна профессиональная поддержка:
