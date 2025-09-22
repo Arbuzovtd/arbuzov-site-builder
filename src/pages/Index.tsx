@@ -3,11 +3,10 @@ import Header from '../components/Header';
 import DefinitionSection from '../components/DefinitionSection';
 import TechniqueCard from '../components/TechniqueCard';
 import ThoughtJournal from '../components/ThoughtJournal';
-import ResourcesSection from '../components/ResourcesSection';
 import CallToAction from '../components/CallToAction';
 import Footer from '../components/Footer';
-import boxBreathingImage from '../assets/box-breathing.png';
-import mindfulness333Image from '../assets/mindfulness-333.png';
+import boxBreathingImage from '../assets/box-breathing.webp';
+import mindfulness333Image from '../assets/mindfulness-333.webp';
 
 const Index = () => {
   return (
@@ -45,11 +44,10 @@ const Index = () => {
         
         <ThoughtJournal />
         
-        <ResourcesSection />
-
         <CallToAction />
+        
       </main>
-      
+
       <Footer />
     </div>
   );
