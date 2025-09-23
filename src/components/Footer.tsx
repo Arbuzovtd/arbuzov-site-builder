@@ -10,7 +10,7 @@ const Footer = () => {
           </p>
           <div className="mt-4 space-x-4">
             <span className="text-sm text-muted-foreground">
-              © 2024 Гид по управлению тревогой
+              © 2025 Гид по управлению тревогой
             </span>
           </div>
         </div>
