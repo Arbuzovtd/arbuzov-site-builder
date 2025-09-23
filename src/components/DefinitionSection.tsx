@@ -18,7 +18,7 @@ const DefinitionSection = () => {
             <li className="flex items-start space-x-3">
               <div className="w-2 h-2 rounded-full bg-secondary mt-2 flex-shrink-0"></div>
               <p className="text-foreground text-lg leading-relaxed">
-                <strong>Стресс</strong> — нормальная реакция на нагрузку. Проблема начинается, когда восстановление не успевает
+                <strong>Стресс</strong> — нормальная реакция на нагрузку. Проблема начинается, когда организм не успевает восстановиться
               </p>
             </li>
             <li className="flex items-start space-x-3">
